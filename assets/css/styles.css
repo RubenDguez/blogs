@@ -117,10 +117,6 @@ main {
     color: var(--dark);
 }
 
-.display-none {
-    display: none;
-}
-
 /*
   IDs
 */
